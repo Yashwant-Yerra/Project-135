@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+}
+#copy_right_footer {
+    text-align: center; 
+    width: 100% ;
+    background-color: rgb(251, 191, 119);
+    bottom: 0 ;
+    position: fixed;
+    height: 46px;
+    padding-top: 10px;
+    color: white;
+    font-size: 19px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+#object_name_input {
+    width: 400px;
+    height: 50px;
+    padding-bottom:0px;
+    background-color:rgb(251, 191, 119);
+    color: pink;
+    font-family: 'Akaya Kanadaka', cursive;
+    border-radius: 100px;
+    padding-left: 10px;
+    border: 2px solid pink ;
+    font-size: 21px;
+}
